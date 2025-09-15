@@ -12,9 +12,8 @@ It is great way to reflect and see how i have improve during the course
 
 | Type               | Completion |
 | :----------------- | :--------: |
-| Project            |   0/19    |
-| Challenge Day      |    0/1     |
-| Challenges         |   0/59    |
+| Project            |   1/19    |
+| Challenges         |   1/59    |
 | Milestone Projects |    0/6     |
 
 ## Projects
@@ -22,7 +21,7 @@ It is great way to reflect and see how i have improve during the course
 | Project                                 | What I made - *What was learned*  | Screenshots |
 | :-- | :-- | :--: |
 | Project 1 - WeSplit                     | Form, Section, NavigationView, @State property wrapper, TextField, Picker, ForEach | <img src="01-Project1/WeSplit.png" width=70% height=70%> |
-| Challenge Day 1                         | Unit Converter | <img src="02-ChallengueDay1/C1-UnitConvertor.png" width=70% height=70%> |
+| Challenge Day 1                         | Unit Converter | <img src="02-ChallengueDay1/C1-UnitConvertor.png" width=50% height=50%> |
 | Project 2 - Guess the Flag              | Not completed | <img src="" width=70% height=70%> |
 | Project 3 - Views and Modifers          | Not completed | <img src="" width=70% height=70%> |
 | Milestone 1-3 Scissors, Paper, Rock     | Not completed | <img src="" width=70% height=70%> |
