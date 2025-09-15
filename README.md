@@ -20,8 +20,8 @@ It is great way to reflect and see how i have improve during the course
 <!-- Header and table -->
 | Project                                 | What I made - *What was learned*  | Screenshots |
 | :-- | :-- | :--: |
-| Project 1 - WeSplit                     | Form, Section, NavigationView, @State property wrapper, TextField, Picker, ForEach | <img src="01-Project1/WeSplit.png" width=50% height=50%> |
-| Challenge Day 1                         | Unit Converter | <img src="02-ChallengueDay1/C1-UnitConvertor.png" width=50% height=50%> |
+| Project 1 - WeSplit                     | Form, Section, NavigationView, @State property wrapper, TextField, Picker, ForEach | <img src="01-Project1/WeSplit.png" width=60% height=60%> |
+| Challenge Day 1                         | Unit Converter | <img src="02-ChallengueDay1/C1-UnitConvertor.png" width=60% height=60%> |
 | Project 2 - Guess the Flag              | Not completed | <img src="" width=70% height=70%> |
 | Project 3 - Views and Modifers          | Not completed | <img src="" width=70% height=70%> |
 | Milestone 1-3 Scissors, Paper, Rock     | Not completed | <img src="" width=70% height=70%> |
